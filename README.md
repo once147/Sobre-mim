@@ -1,8 +1,6 @@
 # RoutIngelligence
 
-Ola 👋, I'm [Filipe]
-
-Sou apaixonado por análise de dados, inteligência de negócios e tecnologia.
+Ola 👋, me chamo [Filipe]
 
 🔭 Atualmente estou trabalhando em projetos de análise de dados e dashboards interativos.
 
