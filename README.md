@@ -12,7 +12,7 @@ Ola 👋, me chamo Filipe
 
 💼 Saiba mais sobre mim: www.linkedin.com/in/filipe-gonçalves-26833a360
 
-📂 Currículo: [Clique aqui](https://github.com/once147/Sobre-mim/blob/main/Portfolio.pdf) 
+📂 Currículo: [Clique aqui](https://github.com/once147/Sobre-mim/blob/main/Curriculo.pdf) 
 
 🧰 Projetos [Clique aqui](https://once147.github.io/SuperStore/)
 
